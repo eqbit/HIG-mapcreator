@@ -1,0 +1,8 @@
+.idea
+.log
+.tlog
+Debug
+ipch
+*.sdf
+*.sln
+*.suo
